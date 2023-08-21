@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b4a8a8;
+    margin: 0;
+    padding: 0;
+  }
+
+  .Tab--active {
+    background-color: rgb(117, 93, 27);
+    color: rgb(160, 91, 26);
+  }
+  
+  h2 {
+    color: rgb(92, 49, 8);
+  }
+  
+  .Select {
+    width: 200px;
+    margin-bottom: 10px;
+  }
+
+  .DatePicker {
+    color: rgb(0, 0, 0);   
+    width: 300px;
+    margin-bottom: 10px;
+
+  }
+  
+  /* Chart styles */
+  .Graph {
+    margin-top: 20px;
+  }
+  
+  /* Footer styles */
+  .Footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #646161;
+    padding: 10px;
+    text-align: center;
+    font-size: 12px;
+    color: #999;
+  }
+  h1 {
+    color: rgb(92, 49, 8);
+  }
+  
+  
